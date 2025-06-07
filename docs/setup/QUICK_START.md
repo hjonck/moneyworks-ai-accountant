@@ -17,4 +17,4 @@ npm run dev
 2. Configure MCP servers
 3. Validate setup
 
-See the main [setup manual](../../../../MONEYWORKS_AI_ACCOUNTANT_MANUAL.md) for complete instructions.
+See the main [setup manual](../../MANUAL.md) for complete instructions.

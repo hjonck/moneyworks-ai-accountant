@@ -37,7 +37,7 @@ MoneyWorks API & Database
 
 - **[CLAUDE.md](CLAUDE.md)** - Guidelines for AI agents working on this project
 - **[DESIGN.md](DESIGN.md)** - Comprehensive technical architecture and methodology
-- **[Setup Manual](../../MONEYWORKS_AI_ACCOUNTANT_MANUAL.md)** - Complete setup and development guide
+- **[Manual](MANUAL.md)** - Complete setup and development guide
 
 ## 🎯 Current Capabilities vs. Target State
 
@@ -135,7 +135,7 @@ npm run dev
 ```
 
 ### Configure MoneyWorks MCP
-Follow the comprehensive setup guide in [MONEYWORKS_AI_ACCOUNTANT_MANUAL.md](../../MONEYWORKS_AI_ACCOUNTANT_MANUAL.md) for complete configuration instructions.
+Follow the comprehensive setup guide in [MANUAL.md](MANUAL.md) for complete configuration instructions.
 
 ## 📊 Project Status
 
@@ -177,4 +177,4 @@ This project is part of the AgileWorks ecosystem. See LICENSE for details.
 
 ---
 
-**Ready to create AI agents that truly understand accounting?** Start with our [setup manual](../../MONEYWORKS_AI_ACCOUNTANT_MANUAL.md) and join the revolution in AI-powered accounting assistance.
+**Ready to create AI agents that truly understand accounting?** Start with our [setup manual](MANUAL.md) and join the revolution in AI-powered accounting assistance.
